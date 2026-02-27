@@ -1,0 +1,31 @@
+header{
+    background-image: url(../images/images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 150px;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+}
+header h1{
+    font-size: 40px;
+}
+section h2{
+    color: aquamarine;
+}
+.social a{
+    text-decoration: none;
+    color: #000;
+}
+.socile .fa{
+    color: #3b5998;
+
+}
+.social .tw{
+    color: #1da1f2;
+
+}
+.social .yo{
+    color: #ff0000;
+}

@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+div{
+     width: 150px;
+    height: 150px
+}
+#one{
+    
+    background-color: blue;
+    /*margin: 10px;
+    margin: 10px 20px;
+    margin: 10px 20px 30px; */
+    /* margin: 10px 20px 30px 40px; */
+    /* margin-top:50px ; */
+    /* margin: 0 0 10px ;
+    margin-bottom: 10px; */
+
+}
+#two{
+    padding: 30px;
+    background-color:red;
+
+}
+#three{
+
+    background-color:yellow;
+
+}
